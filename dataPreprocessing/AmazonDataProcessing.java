@@ -9,9 +9,6 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by quancong on 19/7/12.
- */
 public class AmazonDataProcessing {
     public static final String PATH = "path of the original data file: such as Musical_Instruments_5.json";
     public static final String[] SEPARATOR = new String[]{"\t", "\\*", " "};
