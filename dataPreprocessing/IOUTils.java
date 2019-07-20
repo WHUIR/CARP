@@ -7,9 +7,6 @@ import java.util.Map;
 import java.util.Set;
 import java.util.regex.Pattern;
 
-/**
- * Created by quancong on 19/7/12.
- */
 public class IOUTils {
     public static Pattern pattern = Pattern.compile("[0-9]*");
 
